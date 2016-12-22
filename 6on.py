@@ -6,10 +6,10 @@ import time
 # INITIALIZE THE GPIO
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
-GPIO.setup(6,GPIO.OUT)
+GPIO.setup(22,GPIO.OUT)
 
 # TURN ON RELAY 1
-GPIO.output(6,0)
+GPIO.output(22,0)
 
 # CLEAN UP GPIO
 # GPIO.cleanup()
