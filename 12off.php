@@ -1,5 +1,5 @@
 <?php
-$output = shell_exec('sudo python 12off.py 2>&1');
+$output = shell_exec('sudo python ./py/12off.py 2>&1');
 echo "<pre>$output</pre>";
 @include("./index.html");
 exit;
