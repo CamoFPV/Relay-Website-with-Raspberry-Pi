@@ -11,8 +11,6 @@ Chown to web user: chown www-data ./html -R
 
 Connect all 16 inputs from the relay board to the following GPIOs:
 
-5v, 1. 2, 3,  4,  5,  6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, GND. TO
-
 5v, 2, 3, 4, 17, 27, 22, 10, 9, 11, 5, 6, 13, 19, 26, 21, 20, GND.
 
 ![alt tag] (https://www.element14.com/community/servlet/JiveServlet/previewBody/68203-102-6-294412/GPIO.png?01AD=3YeGUR2ccsQXa6rrnfoY46lHev_2C_bFDf1zs09GKw4Yr1QuYxsrv5A&01RI=12D4340AE6EFF74&01NA=)
