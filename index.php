@@ -66,15 +66,15 @@
 <div>
 <?php
 $output = shell_exec('sudo gpio -g read 2 2>&1');
-echo "<b>Charger    = $output</b><br />";
+echo "<b>Relay 1    = $output</b><br />";
 ?>
 <?php
 $output = shell_exec('sudo gpio -g read 3 2>&1');
-echo "<b>Lamp       = $output</b><br />";
+echo "<b>Relay 2    = $output</b><br />";
 ?>
 <?php
 $output = shell_exec('sudo gpio -g read 4 2>&1');
-echo "<b>Blacklight = $output</b><br />";
+echo "<b>Relay 3    = $output</b><br />";
 ?>
 <?php
 $output = shell_exec('sudo gpio -g read 17 2>&1');
