@@ -3,6 +3,12 @@ This is my devlopment of my website that controls GPIO on the Pi to power any 16
 
 To use this script, you have to have installed a LAMP server on the Pi.
 
+Download and extract to: /var/www/html/
+
+Give it permissions: chmod 755 ./html -R
+
+Chown to web user: chown www-data ./html -R
+
 Connect all 16 inputs from the relay board to the following GPIOs:
 
 5v, 2, 3, 4, 17, 27, 22, 10, 9, 11, 5, 6, 13, 19, 26, 21, 20, GND.
