@@ -27,7 +27,7 @@ input.MyButton:active {
   transform: translateY(4px);
 }
 input.MyButtonON {
-width: 250px;
+width: 200px;
 padding: 20px;
 cursor: pointer;
 font-weight: bold;
