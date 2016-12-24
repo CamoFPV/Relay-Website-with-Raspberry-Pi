@@ -21,3 +21,6 @@ You may change the "ALL" to a directory. Example /var/www/html/* for the web ser
 
 Check out my site : https://camofpv.com 
 Check me out on YouTube : https://www.youtube.com/channel/UC6hCfu4P6eIGZm_kpJ0K5mg
+
+![alt tag](https://diamondnode.net/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=2560&y=752&a=true&file=Screen%2520Shot%25202016-12-23%2520at%252011.43.38%2520PM.png&t=X1HSd7idq8RCKyj&scalingup=0)
+![alt tag](https://diamondnode.net/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=2560&y=664&a=true&file=Screen%2520Shot%25202016-12-23%2520at%252011.41.55%2520PM.png&t=RYmB6bIjntv6CaO&scalingup=0)
