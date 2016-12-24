@@ -134,6 +134,6 @@ echo "<b>Relay 16    = $output</b><br />";
 <b>Created by Austin<b/></p></div>
 </body>
 <a href="https://camofpv.com">
-  <img src="logo.png" alt="CamoFPV"
+  <img src="./img/logo.png" alt="CamoFPV"
 style="width:128px;height:128px;">
 </a>
