@@ -1,0 +1,74 @@
+input.MyButton {
+width:100px;
+padding: 20px;
+cursor: pointer;
+font-weight: bold;
+font-size: 150%;
+background: #3366cc;
+color: #fff;
+border: 1px solid #3366cc;
+border-radius: 10px;
+-moz-box-shadow:: 6px 6px 5px #999;
+-webkit-box-shadow:: 6px 6px 5px #999;
+box-shadow:: 6px 6px 5px #999;
+}
+input.MyButton:hover {
+color: #000;
+background: #CF4647;
+border: 1px solid #fff;
+display:inline-block;
+-moz-box-shadow:: 5px 5px 4px #adadad;
+-webkit-box-shadow:: 5px 5px 4px #adadad;
+box-shadow:: 5px 5px 4px #adadad;
+}
+input.MyButton:active {
+  background-color: #CF4647;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+input.MyButtonON {
+width: 200px;
+padding: 20px;
+cursor: pointer;
+font-weight: bold;
+font-size: 150%;
+background: #3366cc;
+color: #fff;
+border: 1px solid #3366cc;
+border-radius: 10px;
+-moz-box-shadow:: 6px 6px 5px #999;
+-webkit-box-shadow:: 6px 6px 5px #999;
+box-shadow:: 6px 6px 5px #999;
+}
+input.MyButtonON:hover {
+color: #000;
+background: #42f450;
+border: 1px solid #fff;
+display:inline-block;
+-moz-box-shadow:: 5px 5px 4px #adadad;
+-webkit-box-shadow:: 5px 5px 4px #adadad;
+box-shadow:: 5px 5px 4px #adadad;
+}
+input.MyButtonON:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#button1 , #button2 {
+display:inline-block;
+/**other codes**/
+}
+body  {
+    background-image: url(./background.jpg");
+    background-color: #000;
+}
+.dive {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid white;
+    padding: 25px;
+    margin: 25px;
+}
+button:hover {
+  background: #CF4647;
+}
