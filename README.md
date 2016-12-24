@@ -3,7 +3,11 @@ This is my devlopment of my website that controls GPIO on the Pi to power any 16
 
 To use this script, you have to have installed a LAMP server on the Pi.
 
-Connect all 16 inputs from the relay board to the following pins in 5v, 2, 3, 4, 17, 27, 22, 10, 9, 11, 5, 6, 13, 19, 26, 21, 20, GND.
+Connect all 16 inputs from the relay board to the following GPIOs:
+
+5v, 2, 3, 4, 17, 27, 22, 10, 9, 11, 5, 6, 13, 19, 26, 21, 20, GND.
+
+![alt tag] (https://www.element14.com/community/servlet/JiveServlet/previewBody/68203-102-6-294412/GPIO.png?01AD=3YeGUR2ccsQXa6rrnfoY46lHev_2C_bFDf1zs09GKw4Yr1QuYxsrv5A&01RI=12D4340AE6EFF74&01NA=)
 
 Im using a Raspberry Pi rev 2 B+ (Old Pi without video out) not sure if there is any diffrence on other Pis.
 
@@ -20,6 +24,7 @@ You may change the "ALL" to a directory. Example /var/www/html/* for the web ser
 
 
 Check out my site : https://camofpv.com 
+
 Check me out on YouTube : https://www.youtube.com/channel/UC6hCfu4P6eIGZm_kpJ0K5mg
 
 ![alt tag](https://diamondnode.net/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=2560&y=752&a=true&file=Screen%2520Shot%25202016-12-23%2520at%252011.43.38%2520PM.png&t=X1HSd7idq8RCKyj&scalingup=0)
