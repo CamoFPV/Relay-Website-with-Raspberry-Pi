@@ -3,61 +3,61 @@
 </head>
 <body>
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 1 ON" onclick="window.location.href='./1on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./1off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 9 ON" onclick="window.location.href='./9on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./9off.php'" />
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="All Relays ON" onclick="window.location.href='./allon.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./alloff.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 1 ON" onclick="window.location.href='./php/1on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/1off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 9 ON" onclick="window.location.href='./php/9on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/9off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="All Relays ON" onclick="window.location.href='./php/allon.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/alloff.php'" />
 </div>
 <br />
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 2 ON" onclick="window.location.href='./2on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./2off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 10 ON" onclick="window.location.href='./10on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./10off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 2 ON" onclick="window.location.href='./php/2on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/2off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 10 ON" onclick="window.location.href='./php/10on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/10off.php'" />
 </div>
 <br />
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 3 ON" onclick="window.location.href='./3on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./3off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 11 ON" onclick="window.location.href='./11on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./11off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 3 ON" onclick="window.location.href='./php/3on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/3off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 11 ON" onclick="window.location.href='./php/11on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/11off.php'" />
 </div>
 <br />
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 4 ON" onclick="window.location.href='./4on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./4off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 12 ON" onclick="window.location.href='./12on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./12off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 4 ON" onclick="window.location.href='./php/4on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/4off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 12 ON" onclick="window.location.href='./php/12on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/12off.php'" />
 </div>
 <br />
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 5 ON" onclick="window.location.href='./5on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./5off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 13 ON" onclick="window.location.href='./13on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./13off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 5 ON" onclick="window.location.href='./php/5on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/5off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 13 ON" onclick="window.location.href='./php/13on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/13off.php'" />
 </div>
 <br />
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 6 ON" onclick="window.location.href='./6on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./6off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 14 ON" onclick="window.location.href='./14on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./14off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 6 ON" onclick="window.location.href='./php/6on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/6off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 14 ON" onclick="window.location.href='./php/14on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/14off.php'" />
 </div>
 <br />
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 7 ON" onclick="window.location.href='./7on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./7off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 15 ON" onclick="window.location.href='./15on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./15off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 7 ON" onclick="window.location.href='./php/7on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/7off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 15 ON" onclick="window.location.href='./php/15on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/15off.php'" />
 </div>
 <br />
 <div class="container">
-    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 8 ON" onclick="window.location.href='./8on.php'" />
-    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./8off.php'" />
-    <input class="MyButtonON" type="button" value="Relay 16 ON" onclick="window.location.href='./16on.php'" />
-    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./16off.php'" />
+    <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 8 ON" onclick="window.location.href='./php/8on.php'" />
+    <input class="MyButton" style="margin-right:16px" type="button" value="OFF" onclick="window.location.href='./php/8off.php'" />
+    <input class="MyButtonON" type="button" value="Relay 16 ON" onclick="window.location.href='./php/16on.php'" />
+    <input class="MyButton" type="button" value="OFF" onclick="window.location.href='./php/16off.php'" />
 </div>
 <br />
 <div class="dive">
