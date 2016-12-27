@@ -1,6 +1,8 @@
+<title>Raspberry Pi Relay Control</title>
 <head>
 <link rel="stylesheet" href="./assets/style.css" type="text/css" />
 </head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
 <div class="container">
     <input class="MyButtonON" style="margin-left:25px" type="button" value="Relay 1 ON" onclick="window.location.href='./php/1on.php'" />
